@@ -1,0 +1,4 @@
+com/demo/fileUpload/controller/FileController.class
+com/demo/fileUpload/FileUploadApplication.class
+com/demo/fileUpload/model/LoadFile.class
+com/demo/fileUpload/service/FileService.class
